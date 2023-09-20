@@ -1,4 +1,4 @@
-﻿# Freelanzer - Pagina web Diseño y desarrollo web
+﻿# Freelanzer - Web design and development
 
 ## Technologies
 ***
